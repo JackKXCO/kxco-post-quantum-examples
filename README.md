@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **DEPRECATED.** This repository is archived. All examples now live in
+> [`kxco-pq-webhook/examples`](https://github.com/KnightsbridgeAIQ/kxco-pq-webhook/tree/main/examples) and are maintained there.
+
 # kxco-post-quantum-examples
 
 Drop-in webhook receiver templates verifying KXCO hybrid HMAC + ML-DSA-65 signatures across common platforms. Every example is **copy-paste runnable** with two environment variables.
